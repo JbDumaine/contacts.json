@@ -3,36 +3,36 @@
             "id": 1,
             "firstName": "Bill",
             "lastName": "Gates",
-            "email": "bill@microsoft.com";
-            "phone": "+1 (956) 442-3418",
+            "email": "bill@microsoft.com",
+            "phone": "+1 (956) 442-3418"
         },
         {
             "id": 2,
             "firstName": "Mark",
             "lastName": "Zuckerberg",
-            "email": "mark@facebook.com";
-            "phone": "+1 (956) 442-3418",
+            "email": "mark@facebook.com",
+            "phone": "+1 (956) 442-3418"
         },
         {
             "id": 3,
             "firstName": "Jeff",
             "lastName": "Bezos",
-            "email": "jeff@amazon.com";
-            "phone": "+1 (956) 442-3418",
+            "email": "jeff@amazon.com",
+            "phone": "+1 (956) 442-3418"
         },
                       {
             "id": 4,
             "firstName": "Elon",
             "lastName": "Musk",
-            "email": "elon@tesla.com";
-            "phone": "+1 (956) 442-3418",
+            "email": "elon@tesla.com",
+            "phone": "+1 (956) 442-3418"
         },
                       {
             "id": 5,
             "firstName": "Bruce",
             "lastName": "Lee",
-            "email": "bruce@kungfu.com";
-            "phone": "+1 (956) 442-3418",
+            "email": "bruce@kungfu.com",
+            "phone": "+1 (956) 442-3418"
         }
               
     ]
