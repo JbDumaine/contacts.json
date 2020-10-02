@@ -36,5 +36,64 @@
         }
               
     ]
+    
+        "event": [{
+            "id": 1,
+            "title": "Anniversaire Bob",
+            "date_event": "",
+            "user_id": "3,
+            "description": "sadasdasd asd sad asdsa  d",
+            "address": "dsaad sad as sadsa dsa a",
+            "guest_list": [],
+            "item_list": []
+    
+        },
+{
+            "id": 1,
+            "title": "Anniversaire Bob",
+            "date_event": "",
+            "user_id": "3,
+            "description": "sadasdasd asd sad asdsa  d",
+            "address": "dsaad sad as sadsa dsa a",
+            "guest_list": [],
+            "item_list": []
+    
+        },
+{
+            "id": 1,
+            "title": "Anniversaire Bob",
+            "date_event": "",
+            "user_id": "3,
+            "description": "sadasdasd asd sad asdsa  d",
+            "address": "dsaad sad as sadsa dsa a",
+            "guest_list": [],
+            "item_list": []
+    
+        },
+{
+            "id": 1,
+            "title": "Anniversaire Bob",
+            "date_event": "",
+            "user_id": "3,
+            "description": "sadasdasd asd sad asdsa  d",
+            "address": "dsaad sad as sadsa dsa a",
+            "guest_list": [],
+            "item_list": []
+    
+        },
+{
+            "id": 1,
+            "title": "Anniversaire Bob",
+            "date_event": "",
+            "user_id": "3,
+            "description": "sadasdasd asd sad asdsa  d",
+            "address": "dsaad sad as sadsa dsa a",
+            "guest_list": [],
+            "item_list": []
+    
+        },
+
+              
+    ]
 
 }
